@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pratham Sharma</h1>
-<h3 align="center">A passionate frontend and backend and mobile dev enthuthiast.</h3>
+<h3 align="center">A passionate Frontend, Backend and Mobile dev enthuthiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratt778&label=Profile%20views&color=0e75b6&style=flat" alt="pratt778" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratt778" alt="pratt778" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS and ASP.NET**
+- 🌱 I’m currently learning **Rest APIs**
 
 - 💬 Ask me about **React, Flutter, Django**
 
