@@ -23,5 +23,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratt778&show_icons=true&locale=en" alt="pratt778" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratt778&" alt="pratt778" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratt778&theme=vue-dark&hide_border=true&date_format=M%20j[%2C%20Y]" alt="pratt778" /></p>
 
