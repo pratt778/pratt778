@@ -15,7 +15,7 @@
 
 <br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pratt778&show_icons=true&rank_icon=github&title_color=DB6B34&icon_color=E8A33D&text_color=CFC7B0&bg_color=12100B&border_color=332C20&ring_color=DB6B34" alt="GitHub stats">
+<img height="170" src="https://github-stats-eta-mauve.vercel.app/api?username=pratt778&show_icons=true&rank_icon=github&title_color=DB6B34&icon_color=E8A33D&text_color=CFC7B0&bg_color=12100B&border_color=332C20&ring_color=DB6B34" alt="GitHub stats">
 
 <br>
 
